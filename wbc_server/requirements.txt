@@ -1,0 +1,10 @@
+Flask
+Flask_Cors
+joblib
+matplotlib
+numpy
+Pillow
+scikit_image
+pandas
+gunicorn
+scikit-learn
